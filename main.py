@@ -6,6 +6,9 @@ make.fun program/v1 harness grades) and prints exactly the same line.
 The joke lands on a fresh angle: every cat owner knows the glass-knocking,
 but the turn is that the cat does it deliberately, holding eye contact,
 because it is personal — the cat is not clumsy, it is filing a complaint.
+
+Output: exactly one line (104 characters), written to entry.txt with a
+trailing newline, and printed verbatim to stdout.
 """
 
 import os
